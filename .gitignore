@@ -1,0 +1,7 @@
+food-101/
+runs/
+*.pt
+*.db
+__pycache__/
+datasets/
+*.log
