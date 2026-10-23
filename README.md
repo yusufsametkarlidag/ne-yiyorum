@@ -69,6 +69,4 @@ convert_food101_to_yolo.py    Veri seti dönüştürücü
 ## Ekip
 
 Üç kişilik bitirme projesi ekibiyle sunuldu: **Emir**, **İlayda** ve **Yusuf Samet Karlıdağ**.
-Uygulamanın geliştirmesini (model eğitimi, besin veritabanı, kullanıcı katmanı ve arayüz) ben yürüttüm.
-
-Ekip arkadaşımın hesabındaki ilk sürüm: [ilaydayrdmc/Ne-Yiyorum](https://github.com/ilaydayrdmc/Ne-Yiyorum)
+Uygulamanın geliştirmesini — model eğitimi, besin veritabanı, kullanıcı katmanı ve arayüz — ben yürüttüm.
